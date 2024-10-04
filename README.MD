@@ -26,7 +26,7 @@ Esses passos são descritos em detalhes no arquivo de instalação. Consulte o a
 ### Versão do Pwnagotchi:
 Baseado na versão v1.5.5 do Pwnagotchi.
 
-![Descrição da Imagem](./01.jpg)
+![Descrição da Imagem](./Imagens/01.jpg)
 
 
 
