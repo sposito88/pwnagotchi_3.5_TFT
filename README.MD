@@ -21,3 +21,5 @@ Todos os parâmetros de interface, como a barra de progresso e a exibição de n
 
 ## Versão do Pwnagotchi:
 Baseado na versão v1.5.5 do Pwnagotchi.
+
+![Descrição da Imagem](./01.jpg)
