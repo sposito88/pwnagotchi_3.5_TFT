@@ -15,12 +15,6 @@ Exibição de nível e EXP de forma otimizada para pequenas telas.
 ### Personalização:
 Todos os parâmetros de interface, como a barra de progresso e a exibição de nível, podem ser ajustados no arquivo config.yml para diferentes tamanhos de tela.
 
-### Versão do Pwnagotchi:
-Baseado na versão v1.5.5 do Pwnagotchi.
-
-![Descrição da Imagem](./01.jpg)
-
-
 ### Guia de Instalação e Configuração:
 Para garantir que o Pwnagotchi funcione corretamente com a tela TFT de 3,5 polegadas, é necessário seguir alguns passos adicionais de configuração. Estes incluem:
 
@@ -28,3 +22,11 @@ Habilitar o login de root via SSH para facilitar o acesso e controle.
 Ajustar as configurações da tela no arquivo config.toml e adaptar o arquivo spotpear24inch.py às especificidades do seu dispositivo.
 Ativar a tela com o script da Waveshare, utilizando o comando LCD35-show para garantir que a interface gráfica seja exibida corretamente na tela de 3,5 polegadas.
 Esses passos são descritos em detalhes no arquivo de instalação. Consulte o arquivo INSTALL.md para o passo a passo completo de instalação e configuração.
+
+### Versão do Pwnagotchi:
+Baseado na versão v1.5.5 do Pwnagotchi.
+
+![Descrição da Imagem](./01.jpg)
+
+
+
