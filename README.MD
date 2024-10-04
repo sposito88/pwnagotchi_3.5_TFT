@@ -21,7 +21,7 @@ Para garantir que o Pwnagotchi funcione corretamente com a tela TFT de 3,5 poleg
 Habilitar o login de root via SSH para facilitar o acesso e controle.
 Ajustar as configurações da tela no arquivo config.toml e adaptar o arquivo spotpear24inch.py às especificidades do seu dispositivo.
 Ativar a tela com o script da Waveshare, utilizando o comando LCD35-show para garantir que a interface gráfica seja exibida corretamente na tela de 3,5 polegadas.
-Esses passos são descritos em detalhes no arquivo de instalação. Consulte o arquivo [INSTALL.md]https://github.com/sposito88/pwnagotchi_3.5_TFT/blob/main/INSTALL.md para o passo a passo completo de instalação e configuração.
+Esses passos são descritos em detalhes no arquivo de instalação. Consulte o arquivo [INSTALL.md](https://github.com/sposito88/pwnagotchi_3.5_TFT/blob/main/INSTALL.md) para o passo a passo completo de instalação e configuração.
 
 ### Versão do Pwnagotchi:
 Baseado na versão v1.5.5 do Pwnagotchi.
