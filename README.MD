@@ -1,4 +1,4 @@
-# Pwnagotchi 3.5" TFT Plugin
+# Pwnagotchi no Raspberry Pi 3B+ com Plugins
 Este repositório contém plugins e arquivos de configuração para otimizar o uso do Pwnagotchi em uma tela TFT de 3,5 polegadas, rodando em uma Raspberry Pi 3B+. Ele inclui ajustes na interface, melhorias nos plugins de idade (Age Plugin) e experiência (EXP Plugin), além de suporte a múltiplos idiomas.
 
 ## Funcionalidades:
